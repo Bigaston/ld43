@@ -1,0 +1,12 @@
+Sucrifice must be made:
+
+- Jeu de plateforme:
+-> Chaque fois que tu meurs, tu sacrifie une mécaniques
+
+Jeu de Tower Defense:
+-> Pour poser une tourelle, tu dois sacrifier des humains
+-> A la fin de la partie tu dois avoir le minimum d'humains
+-> Chaque enemis arrivant à ta ville te fais perdre des humains
+-> Amélioration possible du nombre d'humains au début du jeu
+
+Pour avancer dans le jeu, tu dois sacrifier une mécanique
